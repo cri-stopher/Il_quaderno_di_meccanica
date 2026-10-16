@@ -1,0 +1,21 @@
+[
+  {
+    "id": "benvenuto",
+    "category": "Guida",
+    "title": "Come funziona questo quaderno",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "ch07-energia",
+    "category": "Tesi — Impatti balistici su laminati CFRP",
+    "chapterNumber": 7,
+    "title": "Bilancio energetico per impatti ad alta velocità",
+    "date": "2026-09-03"
+  },
+  {
+    "id": "appunti-bezier",
+    "category": "Appunti — Modellazione geometrica",
+    "title": "Curve di Bézier: idea di base",
+    "date": "2026-08-20"
+  }
+]
